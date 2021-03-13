@@ -11,23 +11,24 @@ Please go to @CFCHART to use me<i>help</i></b>"""
 <i>
 * First go to @CFCHART
 
-*Type movie name. NB: first search movie name in @imdb then copy and paste. If Movie available i Will send to you.
+*Type movie name.
+  <b>NB: first search movie name in @imdb then copy and paste. If Movie available i Will send to you</b>.
 </i>
 
 
 <b>
 
-<b>© @CFCHATOFFICIAL</b>"""
+<b>© @Cfchatofficial </b>"""
 
 
-    ABOUT_MSG = """⭕️<b>I AM PROPERTY OF @CFCHTOFFICIAL</b>
+    ABOUT_MSG = """<b>I AM PROPERTY OF @CFCHATOFFICIAL</b>
     
-⭕️<b>Creater :</b> @CFCHART 
+<b>Creater :</b> @CFCHART 
 
-⭕️<b>Language :</b> <code>Manglish</code>
+<b>Language :</b> <code>English</code>
 
-⭕️<b>website 1:</b> <a href='https://edapazhassimedia.blogspot.com'>movie website</a> 
+<b>website 1:</b> <a href='https://edapazhassimedia.blogspot.com'>movie</a> 
 
-⭕️<b>website 2:</b> <a href='https://musicder.ml'>music website</a> 
+<b>website 2:</b> <a href='https://musicder.ml'>music</a> 
 
 """
