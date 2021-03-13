@@ -17,11 +17,11 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Group", url="https://t.me/CFCHART"),
+                        InlineKeyboardButton("join Group", url="https://t.me/CFCHART"),
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ CHANNEL ⭕️", url="https://t.me/Cfchatofficial")
+                            "Join CHANNEL", url="https://t.me/Cfchatofficial:same")
                     ]
                 ]
             ),
@@ -44,7 +44,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ Group ⭕️", url="https://t.me/CFCHART")
+                            "Join Group ", url="https://t.me/CFCHART")
                     ]
                 ]
             ),
@@ -67,7 +67,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://t.me/joinchat/R3ocwmbOOA3ASKYJ")
+                            "Join Channel", url="https://t.me/joinchat/R3ocwmbOOA3ASKYJ")
                     ]
                 ]
             ),
