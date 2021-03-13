@@ -20,7 +20,7 @@ Please go to @CFCHART to use me<i>help</i></b>"""
 <b>© @CFCHATOFFICIAL</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : {}</b>
+    ABOUT_MSG = """⭕️<b>I AM PROPERTY OF @CFCHTOFFICIAL</b>
     
 ⭕️<b>Creater :</b> @CFCHART 
 
